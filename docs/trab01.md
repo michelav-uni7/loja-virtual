@@ -21,7 +21,7 @@ e [ex02](https://github.com/michelav-uni7/frameworks-comps/tree/master/exercicio
 ### Entrega
 
 O trabalho 01 vale 2,5pts e deverá ser entregue até às 23h59m59s de 26/04/2019. Após essa data, o 
-trabalho passará a valer 1,5pts.
+trabalho passará a valer 2pts e perderá 0,5pts após cada nova data de entrega de trabalho.
 
 Para realizar a entrega vocẽ deverá:
 
