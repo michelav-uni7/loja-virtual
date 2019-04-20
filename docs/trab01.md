@@ -26,6 +26,7 @@ trabalho passará a valer 1,5pts.
 Para realizar a entrega vocẽ deverá:
 
 * Marcar o seu repositório com a tag _trab01_;
+
 * Atualizar o arquivo _loja-virtual.md_ conforme as informações pedidas. Atentem para descrever tudo que
 for necessário (comandos de construção, comandos no shell, etc) para construir e executar a aplicação de 
 vocês.
