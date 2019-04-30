@@ -4,5 +4,6 @@ Repositório modelo para os trabalhos da disciplina **Desenvolvimento com Framew
 
 Abaixo os links para cada Trabalho.
 
-[Trabalho 1](docs/trab01.md)
+- [Trabalho 1](docs/trab01.md)
+- [Trabalho 2](docs/trab02.md)
 
