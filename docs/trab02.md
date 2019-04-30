@@ -23,7 +23,8 @@ informando o produto e a quantidade reposta.
 
 Atenção aos seguintes pontos:
 
-* Você poderá utilizar o ActiveMQ embarcado no Wildfly como JMS Provider;
+* Você poderá utilizar o ActiveMQ embarcado no Wildfly como JMS Provider. Lembrem-se de utilizar o
+arquivo de configuração ```standalone-full.xml``` para habilitar  o ActiveMQ;
 
 * As filas são estruturas unidirecionais. Lembre-se de criar uma para cada sentido: pedido reposição, atualização do estoque;
 
@@ -32,6 +33,9 @@ descrevam os procedimentos necessários para construção e deploy;
 
 * Não será obrigatório (porém **extremamente desejável**) o uso de Docker. Os exercícios [ex01](https://github.com/michelav-uni7/frameworks-comps/tree/master/exercicios/ex01) 
 e [ex02](https://github.com/michelav-uni7/frameworks-comps/tree/master/exercicios/ex02) são bons exemplos para vocês preparem os _Dockerfiles_ necessários. Lembrem-se: _"Tudo será levado em consideração no dia do Juízo Final!"_
+
+* O exercício [ex03](https://github.com/michelav-uni7/frameworks-comps/tree/master/exercicios/ex03) 
+é um bom exemplo de como  utilizar o ActiveMQ e troca de mensagens;
 
 ### Entrega
 
